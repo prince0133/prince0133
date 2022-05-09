@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @princeElias
 - 👀 I’m interested in Making The World A Better Place
 - 🌱 I’m currently learning Java Script + Block Chain Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me http://wa.me/+2348163791762 ...
 
 <!---
